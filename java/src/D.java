@@ -33,6 +33,5 @@ public class D {
             System.out.println(price1);
         }
         System.out.println(sum1);
-
     }
 }
